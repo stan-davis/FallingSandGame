@@ -1,5 +1,5 @@
 # FallingSandGame
-A falling sand game written in C++ using the [olcPixelGameEngine](https://github.com/OneLoneCoder/olcPixelGameEngine)
+A falling sand simulation written in C++ using the [olcPixelGameEngine](https://github.com/OneLoneCoder/olcPixelGameEngine)
 
 ## Controls
 **Left Mouse** to place a particle.
